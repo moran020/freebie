@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+Color textFieldColor = const Color.fromRGBO(247, 247, 247, 1);
+Color gradientBlueLight = const Color.fromRGBO(160, 218, 251, 1);
+Color gradientBlueDark = const Color.fromRGBO(10, 142, 217, 1);
+Color gradientLight = const Color.fromRGBO(13, 13, 13, 0);
+Color gradientDark = const Color.fromRGBO(0, 0, 0, 0.8);
+Color textColorGrey = const Color.fromRGBO(133, 133, 133, 1);
+Color textColorWhite = const Color.fromRGBO(255, 255, 255, 1);
+Color distanceColor = const Color.fromRGBO(0, 0, 0, 0.24);
+Color cardHouseTextColor = const Color.fromRGBO(215, 215, 215, 1);
+Color priceColor = const Color.fromRGBO(10, 142, 217, 1);
+Color topIconsBackgroundColor = const Color.fromRGBO(0, 0, 0, 0.24);
+Color iconsTextColor = const Color.fromRGBO(212, 212, 212, 1);
+Color bottomIconsBackgroundColor = const Color.fromRGBO(255, 255, 255, 0.2);
+Color ownerAvatarColor = const Color.fromRGBO(196, 196, 196, 1);
+Color phoneIconBackgroundColor = const Color.fromRGBO(10, 142, 217, 0.5);
+Color gradientTransparent = const Color.fromRGBO(255, 255, 255, 0);
+Color gradientWhite = const Color.fromRGBO(255, 255, 255, 1);
+Color menuBackgroundColor = const Color.fromRGBO(10, 142, 217, 1);
